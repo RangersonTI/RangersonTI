@@ -3,6 +3,6 @@
 <b>Tecnologias que utilizo atualmente:</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,bootstrap,mysql,sqlite,figma,vscode,github,debian,windows" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,python,html,css,js,django,arduino,bootstrap,mysql,sqlite,figma,vscode,github,debian,windows" />
   </a>
 </p>
