@@ -1,6 +1,6 @@
 <p style="font-size: 40px">
   <b>
-    Olá! Me chamo Rangerson, tenho 21 anos e sou graduado em Análise e Desenvolvimento de Sistema pelo IFTO. Atuo como desenvolvedor junior front-end, trabalhando com tecnologias como <u><i>React</i></u> </i> e <i><u>TypeScript</u></i>, portanto continuo a busca de novas novidades para me tornar um bom desenvolvedor FullStack.
+    Olá! Me chamo Rangerson, tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistema pelo IFTO. Atuo como desenvolvedor junior front-end, trabalhando com tecnologias como <u><i>React</i></u> </i> e <i><u>TypeScript</u></i>, portanto continuo a busca de novas novidades para me tornar um bom desenvolvedor FullStack.
   </b>
 </p>
 <br>
