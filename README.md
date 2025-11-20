@@ -4,7 +4,7 @@
   </b>
 </p>
 <br>
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RangersonTI&layout=compact&hide_border=false&title_color=00bfbf&text_color=00bfbf&bg_color=f7faffff&langs_count=8" />
+<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RangersonTI&layout=compact&hide_border=false&title_color=128caaff&text_color=128caaff&bg_color=f7faffff&langs_count=8" />
 <br>
 <br>
 <b>Tecnologias que utilizo atualmente:</b>
