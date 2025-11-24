@@ -10,7 +10,7 @@
 <b>Tecnologias que utilizo atualmente:</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,styledcomponents,materialui,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,styledcomponents,materialui,vite,yarn" />
   </a>
 </p>
 <br>
@@ -18,20 +18,20 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,django,js,arduino,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,django,js,arduino,bootstrap,linux" />
   </a>
 </p>
 
 <b>Ferramentas de Trabalho:</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,github,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=vscode,gitlab,github,figma,notion,windows" />
   </a>
 </p>
 
 <b>Banco de dados:</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
   </a>
 </p>
