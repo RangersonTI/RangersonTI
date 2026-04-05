@@ -10,7 +10,7 @@
 <b>Tecnologias que utilizo atualmente:</b>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,ts,react,styledcomponents,express,materialui,vite,yarn" />
+    <img src="https://skillicons.dev/icons?i=html,css,ts,react,styledcomponents,express,nextjs,materialui,vite,yarn" />
   </a>
 </p>
 <br>
