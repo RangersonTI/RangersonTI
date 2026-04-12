@@ -4,7 +4,11 @@
   </b>
 </p>
 <br>
-<img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RangersonTI&layout=compact&hide_border=false&title_color=128caaff&text_color=128caaff&bg_color=f7faffff&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/rangersonti?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/rangersonti">
+</picture>
+
 <br>
 <br>
 <b>Tecnologias que utilizo atualmente:</b>
